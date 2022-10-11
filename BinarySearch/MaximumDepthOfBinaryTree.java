@@ -1,5 +1,6 @@
 package BinarySearch;
 
+//Solution --> 2
 public class MaximumDepthOfBinaryTree {
     public static void main(String[] args) {
         Node root = new Node(3);

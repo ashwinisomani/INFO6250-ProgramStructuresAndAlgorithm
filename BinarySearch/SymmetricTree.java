@@ -1,5 +1,7 @@
 package BinarySearch;
 
+//Solution --> 1
+
 public class SymmetricTree {
     public static void main(String[] args) {
         Node root = new Node(1);
